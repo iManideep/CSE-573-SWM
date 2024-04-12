@@ -11,13 +11,13 @@ This project explores the usage of various web scraping tools to extract specifi
 
 ## Project Structure
 - [**/CODE/LinkedIn Jobs.py**](https://github.com/iManideep/CSE-573-SWM/blob/main/CODE/LinkedIn%20Jobs.py) : Contains scripts and files related to data extraction using Beautiful Soup.
-- **/CODE/twitter.py**: Includes scripts and files related to data extraction using Selenium.
-- **/CODE/Amazon_com _ laptop.otd**: Contains configurations and files related to data extraction using Octoparse.
+- [**/CODE/twitter.py**](https://github.com/iManideep/CSE-573-SWM/blob/main/CODE/twitter.py) : Includes scripts and files related to data extraction using Selenium.
+- [**/CODE/Amazon_com _ laptop.otd**](https://github.com/iManideep/CSE-573-SWM/blob/main/CODE/Amazon_com%20_%20laptop.otd) : Contains configurations and files related to data extraction using Octoparse.
 
 ## Output
-- **/DATA/Amazon.com _ laptop.csv**: Contains the extracted data in .csv format.
-- **/DATA/linkedin-jobs.csv**: Contains the extracted data in .csv format.
-- **/DATA/twitter.csv**: Contains the extracted data in .csv format.
+- [**/DATA/linkedin-jobs.csv**](https://github.com/iManideep/CSE-573-SWM/blob/main/DATA/linkedin-jobs.csv) : Contains the extracted data in .csv format.
+- [**/DATA/twitter.csv**](https://github.com/iManideep/CSE-573-SWM/blob/main/DATA/twitter.csv) : Contains the extracted data in .csv format.
+- [**/DATA/Amazon.com _ laptop.csv**](https://github.com/iManideep/CSE-573-SWM/blob/main/DATA/Amazon.com%20_%20laptop.csv) : Contains the extracted data in .csv format.
 
 ## Contributors
 - Sai Chinnu Yelike (syelike@asu.edu)
