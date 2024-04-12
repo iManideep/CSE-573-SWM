@@ -10,7 +10,7 @@ This project explores the usage of various web scraping tools to extract specifi
 3. **Octoparse:** Used for extracting details about laptops listed on Amazon.
 
 ## Project Structure
-- [**/CODE/LinkedIn Jobs.py**](/CODE/LinkedIn Jobs.py) : Contains scripts and files related to data extraction using Beautiful Soup.
+- [**/CODE/LinkedIn Jobs.py**](https://github.com/iManideep/CSE-573-SWM/blob/main/CODE/LinkedIn%20Jobs.py) : Contains scripts and files related to data extraction using Beautiful Soup.
 - **/CODE/twitter.py**: Includes scripts and files related to data extraction using Selenium.
 - **/CODE/Amazon_com _ laptop.otd**: Contains configurations and files related to data extraction using Octoparse.
 
